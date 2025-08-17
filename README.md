@@ -41,7 +41,7 @@ sudo apt install git python3 python3-pip php openssh-client -y
 
 Clone this repository
 
-git clone https://github.com/SACHINSIROHI47/PyPhisher.git
+git clone https://github.com/WhyBamits/Bphysher.git
 
 
 Enter the directory
