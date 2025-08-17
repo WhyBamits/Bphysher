@@ -1,10 +1,10 @@
-# ---Pyphisher---
+# ---Bphisher---
 
 [√] Description :
 Ultimate phishing tool in python. Includes popular websites like facebook, twitter, instagram, github, reddit, gmail and many others.
 
 [*]Announcement
-This project is now a part of MaxPhisher. Further bug fixes and feature addition will be available in that
+Further bug fixes and feature addition will be available 
 
 [+] Installation
 
